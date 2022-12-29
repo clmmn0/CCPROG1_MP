@@ -8,7 +8,8 @@ A simple C-based program implementation of the game "Master Mind". In this game,
 3. Open the command prompt.
 4. Type and run `gcc MANDADERO_Mastermind.c -o MANDADERO_Mastermind` in the command prompt.
 5. Type and run `MANDADERO_Mastermind` in the command prompt or simply double-click the `MANDADERO_Mastermind.exe` file.
-6. Play the game.
+6. Wait for the program to execute.
+7. Play the game.
 
 You may also run the program using applications like Dev-C++ or Visual Studio Code.
 
