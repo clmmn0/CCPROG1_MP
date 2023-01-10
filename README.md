@@ -1,4 +1,4 @@
-# CCPROG1_MP
+# CCPROG1_MP_MasterMind
 
 A simple C-based program implementation of the game "Master Mind". In this game, a four-digit number is randomly generated which the player must guess. The four-digit number only contains digits from 1 to 9. The game ends when the maximum number of guesses is reached or when the four-digit number is guessed successfully.
 
